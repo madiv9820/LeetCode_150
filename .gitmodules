@@ -4,3 +4,6 @@
 [submodule "27. Remove Element"]
 	path = 27. Remove Element
 	url = https://github.com/madiv9820/27_Remove_Element.git
+[submodule "26. Remove Duplicates from Sorted Array"]
+	path = 26. Remove Duplicates from Sorted Array
+	url = https://github.com/madiv9820/26_Remove_Duplicates_from_Sorted_Array.git
