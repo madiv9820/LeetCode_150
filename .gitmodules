@@ -10,3 +10,6 @@
 [submodule "80. Remove Duplicates from Sorted Array II"]
 	path = 80. Remove Duplicates from Sorted Array II
 	url = https://github.com/madiv9820/80_Remove_Duplicates_from_Sorted_Array_II.git
+[submodule "169. Majority Element"]
+	path = 169. Majority Element
+	url = https://github.com/madiv9820/169_Majority_Element.git
