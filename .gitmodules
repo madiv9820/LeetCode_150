@@ -7,3 +7,6 @@
 [submodule "26. Remove Duplicates from Sorted Array"]
 	path = 26. Remove Duplicates from Sorted Array
 	url = https://github.com/madiv9820/26_Remove_Duplicates_from_Sorted_Array.git
+[submodule "80. Remove Duplicates from Sorted Array II"]
+	path = 80. Remove Duplicates from Sorted Array II
+	url = https://github.com/madiv9820/80_Remove_Duplicates_from_Sorted_Array_II.git
