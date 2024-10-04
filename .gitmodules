@@ -1,3 +1,6 @@
 [submodule "88. Merge Sorted Array"]
 	path = 88. Merge Sorted Array
 	url = https://github.com/madiv9820/88_Merge_Sorted_Array.git
+[submodule "27. Remove Element"]
+	path = 27. Remove Element
+	url = https://github.com/madiv9820/27_Remove_Element.git
