@@ -13,3 +13,6 @@
 [submodule "169. Majority Element"]
 	path = 169. Majority Element
 	url = https://github.com/madiv9820/169_Majority_Element.git
+[submodule "189. Rotate Array"]
+	path = 189. Rotate Array
+	url = https://github.com/madiv9820/189_Rotate_Array.git
