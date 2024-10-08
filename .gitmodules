@@ -22,3 +22,6 @@
 [submodule "122. Best Time to Buy and Sell Stock II"]
 	path = 122. Best Time to Buy and Sell Stock II
 	url = https://github.com/madiv9820/122_Best_Time_to_Buy_and_Sell_Stock_II.git
+[submodule "55. Jump Game"]
+	path = 55. Jump Game
+	url = https://github.com/madiv9820/55_Jump_Game.git
