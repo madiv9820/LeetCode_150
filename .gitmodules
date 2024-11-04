@@ -25,3 +25,6 @@
 [submodule "55. Jump Game"]
 	path = 55. Jump Game
 	url = https://github.com/madiv9820/55_Jump_Game.git
+[submodule "04_11_2024--45_Jump-Game_II"]
+	path = 04_11_2024--45_Jump-Game_II
+	url = https://github.com/madiv9820/04_11_2024--45_Jump-Game_II.git
