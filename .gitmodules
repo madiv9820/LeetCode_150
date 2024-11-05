@@ -34,3 +34,6 @@
 [submodule "06_11_2024--380_Insert_Delete_GetRandom_O-1-"]
 	path = 06_11_2024--380_Insert_Delete_GetRandom_O-1-
 	url = https://github.com/madiv9820/06_11_2024--380_Insert_Delete_GetRandom_O-1-.git
+[submodule "06_11_2024--238_Product_of_Array_Except_Self"]
+	path = 06_11_2024--238_Product_of_Array_Except_Self
+	url = https://github.com/madiv9820/06_11_2024--238_Product_of_Array_Except_Self.git
