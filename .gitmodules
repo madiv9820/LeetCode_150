@@ -28,3 +28,6 @@
 [submodule "04_11_2024--45_Jump-Game_II"]
 	path = 04_11_2024--45_Jump-Game_II
 	url = https://github.com/madiv9820/04_11_2024--45_Jump-Game_II.git
+[submodule "05_11_2024--274_H-Index"]
+	path = 05_11_2024--274_H-Index
+	url = https://github.com/madiv9820/05_11_2024--274_H-Index.git
