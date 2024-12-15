@@ -40,3 +40,6 @@
 [submodule "12_11_2024--13_Roman_to_Integer"]
 	path = 12_11_2024--13_Roman_to_Integer
 	url = https://github.com/madiv9820/12_11_2024--13_Roman_to_Integer.git
+[submodule "15_12_2024--88_Merge_Sorted_Array"]
+	path = 15_12_2024--88_Merge_Sorted_Array
+	url = https://github.com/madiv9820/15_12_2024--88_Merge_Sorted_Array.git
