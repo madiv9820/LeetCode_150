@@ -46,3 +46,6 @@
 [submodule "15_12_2024--80_Remove_Duplicates_from_Sorted_Array_II"]
 	path = 15_12_2024--80_Remove_Duplicates_from_Sorted_Array_II
 	url = https://github.com/madiv9820/15_12_2024--80_Remove_Duplicates_from_Sorted_Array_II.git
+[submodule "16_12_2024--135_Candy"]
+	path = 16_12_2024--135_Candy
+	url = https://github.com/madiv9820/16_12_2024--135_Candy.git
