@@ -49,3 +49,6 @@
 [submodule "16_12_2024--135_Candy"]
 	path = 16_12_2024--135_Candy
 	url = https://github.com/madiv9820/16_12_2024--135_Candy.git
+[submodule "18_12_2024--27_Remove_Element"]
+	path = 18_12_2024--27_Remove_Element
+	url = https://github.com/madiv9820/18_12_2024--27_Remove_Element.git
